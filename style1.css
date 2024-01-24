@@ -1,0 +1,136 @@
+.header
+{
+    margin-top: 10px;
+    margin-left: 74px;
+    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+.header, h1
+{
+    display: inline-flex;
+}
+.nav-bar
+{
+    text-align: center;
+    margin: 15px;
+}
+.nav-bar ul
+{
+    display: inline-flex;
+    list-style-type: none;
+    gap: 75px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.nav-bar ul li
+{
+    margin: 0px;
+}
+.sign-1 
+{
+    margin-top: 15px;
+}
+.sign-in
+{
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+.display
+{
+    display: block;
+    
+}
+
+.bck-img
+{
+    position: relative;
+    width: 1319px;
+    height: 662px;
+    margin-left: -34px;
+}
+
+.Intro-text
+{
+    position: absolute;
+    margin-top: -463px;
+    margin-left: 94px;
+}
+
+.Intro-text-1
+{
+    position: absolute;
+    margin-top: -415px;
+    margin-left: 94px;
+}
+
+.Intro-text-2
+{
+    position: absolute;
+    margin-top: -374px;
+    margin-left: 94px;
+}
+.buttons
+{
+    position: absolute;
+    margin-top: -284px;
+    margin-left: 90px;
+
+}
+.features
+{
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+.features-all-3
+{
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+.about-us
+{
+    position: absolute;
+    margin-top: -509px;
+    margin-left: 94px;
+}
+.bck-img-1
+{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+}
+
+.services
+{
+    margin-top: 20px;
+    
+}
+.service-img-2
+{
+    height: 208px;
+    margin-left: 50px;
+
+}
+.service-img-3
+{
+    height: 208px;
+    width: 351px;
+    margin-left: 64px;
+}
+.service-1
+{
+    text-align: center;
+}
+.service-2
+{
+    text-align: end;
+}
+.service-3
+{
+    text-align: end;
+}
+.footer
+{
+    text-align: center;
+    color: brown;
+}
